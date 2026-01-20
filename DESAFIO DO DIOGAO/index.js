@@ -1,1 +1,3 @@
-teste teste
+let nome = "diogo";
+console.log ("hello");
+
